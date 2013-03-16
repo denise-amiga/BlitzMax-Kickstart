@@ -3,10 +3,11 @@ BlitzMax-Kickstart
 
 Simple example source to getting starting learning BlitzMax programming
 
-* Programming Languages in general  
+* Purpose of Programming Languages  
 
-  * http://en.wikipedia.org/wiki/Programming_language
-  * 
+  * BASIC / Lisp / SmallTalk / HyperScript / Lingo 
+  * Java / C# / Objective-C
+  * Python / PHP / Ruby / JavaScript
   
 * Why so many different programming languages?  
 
